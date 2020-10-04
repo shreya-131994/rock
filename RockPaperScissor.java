@@ -43,7 +43,7 @@ public class RockPaperScissor{
 			}
 
 			if (compChoice == playerChoice)
-				System.out.println("Its a Tie");
+				System.out.println("Its A Tie");
 			else if (compChoice == 0 && playerChoice == 1)
 				System.out.println("\nYou Won !!");
 			else if (compChoice == 0 && playerChoice == 2)
